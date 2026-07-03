@@ -132,7 +132,7 @@ print()
 # ตัวอย่างที่ 2: แปลงหน่วยอุณหภูมิ
 print("Temperature Converter")
 print("-" * 25)
-celsius = float(input("Enter temperature in Celsius: "))
+celsius = float(input("Enter temperature in Celsiuss: "))
 
 fahrenheit = (celsius * 9/5) + 32
 kelvin = celsius + 273.15
